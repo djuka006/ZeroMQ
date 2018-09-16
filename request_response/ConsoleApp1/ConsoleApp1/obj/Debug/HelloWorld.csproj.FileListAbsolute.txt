@@ -1,0 +1,11 @@
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\AsyncIO.dll
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\NetMQ.dll
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\NetMQ.xml
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

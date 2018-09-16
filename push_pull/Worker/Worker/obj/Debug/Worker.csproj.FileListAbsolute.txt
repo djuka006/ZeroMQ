@@ -1,0 +1,11 @@
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\Worker.exe.config
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\Worker.exe
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\Worker.pdb
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\AsyncIO.dll
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\NetMQ.dll
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\bin\Debug\NetMQ.xml
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\obj\Debug\Worker.csproj.CopyComplete
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\obj\Debug\Worker.exe
+c:\users\nemanjad\documents\visual studio 2017\Projects\Worker\Worker\obj\Debug\Worker.pdb

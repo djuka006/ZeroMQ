@@ -1,0 +1,11 @@
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\PubSub.exe.config
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\PubSub.exe
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\PubSub.pdb
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\AsyncIO.dll
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\NetMQ.dll
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\bin\Debug\NetMQ.xml
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\obj\Debug\PubSub.csprojAssemblyReference.cache
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\obj\Debug\PubSub.csproj.CoreCompileInputs.cache
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\obj\Debug\PubSub.csproj.CopyComplete
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\obj\Debug\PubSub.exe
+C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\PubSub\PubSub\obj\Debug\PubSub.pdb
