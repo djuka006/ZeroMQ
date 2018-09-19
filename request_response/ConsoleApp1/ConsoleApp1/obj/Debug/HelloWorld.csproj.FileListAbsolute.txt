@@ -9,3 +9,14 @@ C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\
 C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CopyComplete
 C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\nemanjad\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\AsyncIO.dll
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\NetMQ.dll
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\bin\Debug\NetMQ.xml
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CopyComplete
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\zeroMQ\ZeroMQ\request_response\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
